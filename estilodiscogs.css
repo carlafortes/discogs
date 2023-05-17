@@ -1,17 +1,14 @@
-ody{
+body{
     background-color: #D8CAFF;
     margin-top: 5%;
 }
 
 img{
-    /* height: 10%; */
     width: 80%;
     margin-bottom: 20%;
 }
 
 .caja {
-    /* height: 300px;
-    width: 400px; */
     border-color: black;
     border-width: 3px;
     border-style: solid;
